@@ -1,13 +1,5 @@
-# colourAI
-this is my idea on how to make an ai 
+# AI-py
 
 
-trian model
-
-inputs 3
-rgb
-
-then it goes to a hidden layer
-
-in that layer there are nodes that contains nodes
-i dont kown how i coded that but yeah
+this is to test text
+for an ai
